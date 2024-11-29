@@ -1,6 +1,6 @@
-## LeetCode Solutions
+## LEETCODE SOLUTIONS IN PYTHON
 
-Welcome to my LeetCode solutions repository! Here, you'll find solutions to various coding problems from LeetCode. These solutions are automatically pushed to this repository using the LeetHub extension, making it easy for anyone to browse through and learn from them.
+Welcome to my LeetCode solutions repository! Here, you'll FIND SOLUTIONS IN PYTHON to various coding problems from LeetCode. These solutions are automatically pushed to this repository using the LeetHub extension, making it easy for anyone to browse through and learn from them.
 
 Each solution is organized by the problem title and includes the code that successfully passed all test cases on LeetCode.
 
