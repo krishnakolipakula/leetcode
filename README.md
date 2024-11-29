@@ -1,14 +1,13 @@
-#LeetCode Solutions
+## LeetCode Solutions
 
 Welcome to my LeetCode solutions repository! Here, you'll find solutions to various coding problems from LeetCode. These solutions are automatically pushed to this repository using the LeetHub extension, making it easy for anyone to browse through and learn from them.
-
-I use the LeetHub extension to seamlessly push my LeetCode solutions to this repository. This ensures that the latest solutions are always available here.
 
 Each solution is organized by the problem title and includes the code that successfully passed all test cases on LeetCode.
 
 Browse through the solutions to understand different approaches to solving coding problems.
 
 Use the code as a reference while practicing similar problems on LeetCode.
+
 Feel free to fork the repository, suggest improvements, or add your own solutions!
 
 Getting Started
