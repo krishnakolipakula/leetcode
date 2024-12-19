@@ -15,5 +15,5 @@ Clone the Repository: git clone https://github.com/yourusername/leetcode-solutio
  Find the problem you're interested in by browsing the folders.
  Review the solution and try to implement it yourself!
 
-Feedback
+Feedback:
 If you find any issues or have suggestions to improve the solutions or the repository, please open an issue or submit a pull request. Your feedback is greatly appreciated!
